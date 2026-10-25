@@ -196,6 +196,7 @@
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
 -   [CalcFi](https://calcfi.app/) - 312+ free financial calculators (compound interest, FIRE number, retirement, investment returns, tax brackets). No signup, no ads.
 -   [FinancialData.Net](https://financialdata.net/) - Financial datasets (stock market data, financial statements, sustainability data, and more).
+-   [YuRa Trading Tools](https://yuratrading.com/tools) - Free trading risk calculators (position size, risk of ruin, Kelly, Monte Carlo trade simulator, losing-streak odds). No signup.
 
 ---
 
